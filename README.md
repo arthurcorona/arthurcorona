@@ -1,10 +1,15 @@
 ##
  <h1> Hi there, i'm Corona! </h1>
+
 <br>
+
  💼  I´m working with HTML5, CSS3;
  📗 I'm learning JS, NJS;
  ⌚️ I'm 17 years old
+ 
 
+ <br>
+ 
 <div align="center">
   <a href="https://github.com/arthurcorona">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurcorona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
