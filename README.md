@@ -1,5 +1,9 @@
 ##
  <h1> Hi there, i'm Corona! </h1>
+<br>
+ 💼  I´m working with HTML5, CSS3;
+ 📗 I'm learning JS, NJS;
+ ⌚️ I'm 17 years old
 
 <div align="center">
   <a href="https://github.com/arthurcorona">
