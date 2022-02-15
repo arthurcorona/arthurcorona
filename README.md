@@ -6,7 +6,7 @@
  💼  I´m working with HTML5, CSS3;<br>
  📗 I'm learning JS, NJS;<br>
  ⌚️ I'm 17 years old;<br>
- 
+ 📗 I'm learning English;<br>
 
  <br>
  
