@@ -12,6 +12,9 @@
  
 <div align="center">
   <a href="https://github.com/arthurcorona">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurcorona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcorona&layout=compact&langs_count=7&theme=tokyonight"/>
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurcorona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcorona&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
