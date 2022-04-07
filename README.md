@@ -3,7 +3,7 @@
 
 <br>
 
- 💼 I´m technical of automation industrial
+ 💼 I´m technical of automation industrial<br>
  💼 I´m working with HTML5, CSS3, JS;<br>
  📗 I'm learning FIREBASE, JQUERY;<br>
  ⌚️ I'm 18 years old;<br>
