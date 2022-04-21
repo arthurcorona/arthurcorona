@@ -1,11 +1,11 @@
 ##
- <h1> Hello World, i'm Corona! </h1>
+ <h1> Hello World, i'm Arthur Corona! </h1>
 
 <br>
 
  💼 I´m technical of automation industrial<br>
- 💼 I´m working with HTML5, CSS3, JS;<br>
- 📗 I'm learning FIREBASE, JQUERY;<br>
+ 💼 I´m working with HTML5, CSS3, JS; FIREBASE;<br>
+ 📗 I'm learning JQUERY;<br>
  ⌚️ I'm 18 years old;<br>
  📗 I'm learning English;<br>
 
