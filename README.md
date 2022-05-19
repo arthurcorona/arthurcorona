@@ -4,8 +4,8 @@
 <br>
 
  💼 I´m technical of automation industrial<br>
- 💼 I´m working with HTML5, CSS3, JS; FIREBASE;<br>
- 📗 I'm learning JQUERY;<br>
+ 💼 I´m working with HTML5, CSS3, JS; JQUERY;<br>
+ 📗 I'm learning BOOTSTRAP;<br>
  ⌚️ I'm 18 years old;<br>
  📗 I'm learning English;<br>
 
