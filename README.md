@@ -3,8 +3,8 @@
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurcorona&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
  <!--  <a href="">summary</a>  -->
  💼 I´m technical of automation industrial<br>
- 💼 I´m working with HTML5, CSS3, JS; JQUERY;<br>
- 📗 I'm learning BOOTSTRAP;<br>
+ 💼 I´m working with HTML5, CSS3, JS; JQUERY; Firebase<br>
+ 📗 I'm learning Node.js;<br>
  ⌚️ I'm 18 years old;<br>
  📗 I'm learning English;<br>
  My<a href="https://arthurcorona.github.io/aboutme/"> website</a>
