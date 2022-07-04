@@ -3,7 +3,7 @@
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurcorona&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
  <!--  <a href="">summary</a>  -->
  💼 I´m technical of automation industrial<br>
- 💼 I´m working with HTML5, CSS3, JS; JQUERY; Firebase<br>
+ 💼 My thecnologys: HTML5, CSS3, JS; JQUERY; Firebase<br>
  📗 I'm learning Node.js;<br>
  ⌚️ I'm 18 years old;<br>
  📗 I'm learning English;<br>
@@ -33,9 +33,10 @@
 
  <br><br>
  
+   <a href="https://www.youtube.com/channel/UC4d1tUOUJwrB2M8WR8Xm-7g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/arthur-corona-pimentel-32a155216//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/arthurcorona_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:coronaggp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-corona-pimentel-32a155216//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 
