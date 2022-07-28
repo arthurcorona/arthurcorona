@@ -7,7 +7,7 @@
  📗 I'm learning Node.js;<br>
  ⌚️ I'm 18 years old;<br>
  📗 I'm learning English;<br>
- My<a href="https://arthurcorona.github.io/aboutme/"> website</a>
+
 </div>
 
 <br><br>
