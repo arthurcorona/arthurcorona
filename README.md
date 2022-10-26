@@ -3,7 +3,7 @@
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurcorona&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
  <!--  <a href="">summary</a>  -->
  💼 I´m dev front-end<br>
- 💼 My thecnologys: HTML5, CSS3, JS; JQUERY; Firebase<br>
+ 💼 My thecnologys: HTML5, CSS3, Javascript; JQuery; Node; Firebase;<br>
  📗 I'm learning React.js;<br>
  ⌚️ I'm 18 years old;<br>
  📗 I'm learning English;<br>
