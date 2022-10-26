@@ -4,7 +4,7 @@
  <!--  <a href="">summary</a>  -->
  💼 I´m dev front-end<br>
  💼 My thecnologys: HTML5, CSS3, JS; JQUERY; Firebase<br>
- 📗 I'm learning Node.js;<br>
+ 📗 I'm learning React.js;<br>
  ⌚️ I'm 18 years old;<br>
  📗 I'm learning English;<br>
 
