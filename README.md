@@ -1,12 +1,11 @@
-## <h1 align="center"> Hello World, i'm Arthur Corona! </h1>
+## <h1 align="center"> Hello World! sou o Arthur Corona</h1>
 <div position="absolute">
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurcorona&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
  <!--  <a href="">summary</a>  -->
- 💼 I´m dev front-end<br>
- 💼 My thecnologys: HTML5, CSS3, Javascript; JQuery; Node; Firebase;<br>
- 📗 I'm learning MongoDB and React.js;<br>
- ⌚️ I'm 19 years old;<br>
- 📗 I'm learning English;<br>
+ 💼 Desenvolvedor Web<br>
+ 💼 Principais Linguagens/Frameworks: HTML5, CSS3, Javascript; NodeJS; MongoDB<br>
+ 📗 Aprofundando-me em MongoDB e React;<br>
+ ⌚️ 19 Anos;<br>
 
 </div>
 
@@ -19,7 +18,7 @@
 </div>
  <br>
  
-###     LANGUAGES/FRAMEWORKS:
+###     LINGUAGENS/FRAMEWORKS:
 
 <div style="display: inline_block"><br>
 
@@ -29,6 +28,7 @@
   <img align="center" height="30" width="40" alt="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">   
   <img align="center" height="30" width="40" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" height="40" width="50" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="center" height="40" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 
 </div>
 
