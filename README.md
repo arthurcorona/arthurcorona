@@ -5,7 +5,7 @@
  💼 Desenvolvedor Web<br>
  💼 Principais Linguagens/Frameworks: HTML5, CSS3, Javascript; NodeJS; MongoDB<br>
  📗 Aprofundando-me em MongoDB e React;<br>
- ⌚️ 19 Anos;<br>
+ 
 
 </div>
 
