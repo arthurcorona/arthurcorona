@@ -1,10 +1,11 @@
-## <h1 align="center"> Hello World! sou o Arthur Corona</h1>
+## <div align="center"> Hello World! sou o Arthur Corona</div>
 <div position="absolute">
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurcorona&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
  <!--  <a href="">summary</a>  -->
+ <h3>💬 Meu objetivo é trabalhar com desenvolvimento, sou um entusiasta em cibersegurança.</h3>
  💼 Desenvolvedor Web<br>
  💼 Principais Linguagens/Frameworks: HTML5, CSS3, Javascript; NodeJS; MongoDB<br>
- 📗 Aprofundando-me em MongoDB e React;<br>
+ 📗 Cursando Análise e Desenvolvimento;<br>
  
 
 </div>
