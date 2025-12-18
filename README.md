@@ -1,11 +1,14 @@
-## <div align="center"> Hello World! sou o Arthur Corona</div>
+## <div align="center"> Hello World! Eu sou o Corona</div>
 <div position="absolute">
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurcorona&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p> -->
  <!--  <a href="">summary</a>  -->
- <h3>💬 Meu objetivo é trabalhar com desenvolvimento, sou um entusiasta em cibersegurança.</h3>
- 💼 Desenvolvedor Web<br>
- 💼 Principais Linguagens/Frameworks: HTML5, CSS3, Javascript; NodeJS; MongoDB<br>
- 📗 Cursando Análise e Desenvolvimento;<br>
+
+ 
+ <h3>💼 Analista de Desenvolvimento Jr</h3>
+ 💬 Atualmente sou QA do produto <a href="https://inbazz.com.br/">Inbazz.<br></a>
+ 💻 Entusiasta em cibersegurança e estudante de programação<br>
+ 📗 Cursando Análise e Desenvolvimento & Engenharia de Automação;<br>
+ 🕰️ 21 anos
  
 
 </div>
@@ -29,6 +32,10 @@
   <img align="center" height="30" width="40" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" height="40" width="50" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" height="40" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" height="40" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg">
+<img align="center" height="40" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg">
+
+
 
 </div>
 
