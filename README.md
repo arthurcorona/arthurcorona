@@ -32,8 +32,8 @@
   <img align="center" height="30" width="40" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" height="40" width="50" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" height="40" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" height="40" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg">
-<img align="center" height="40" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg">
+  <img align="center" height="40" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" height="40" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 
 
