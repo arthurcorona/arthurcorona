@@ -1,4 +1,4 @@
-## <div align="center"> Hello World! Eu sou o Corona</div>
+## <div align="center"> Hello friend! Eu sou o Corona</div>
 <div position="absolute">
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurcorona&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p> -->
  <!--  <a href="">summary</a>  -->
@@ -26,9 +26,7 @@
 <div style="display: inline_block"><br>
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">   
   <img align="center" height="30" width="40" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" height="40" width="50" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" height="40" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
